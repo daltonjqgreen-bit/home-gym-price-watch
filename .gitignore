@@ -1,0 +1,4 @@
+data/latest.csv
+__pycache__/
+*.png
+site/
